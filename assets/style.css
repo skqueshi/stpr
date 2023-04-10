@@ -58,6 +58,9 @@ input::placeholder {
     border-left: 1px solid black;
 }
 
+
+/* кнопка ебучая */
+
 .button {
     margin: 625px 101px;
     display: inline-block;
